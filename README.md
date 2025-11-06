@@ -55,5 +55,5 @@ Communication between services primarily happens via REST APIs (through the gate
 ### 1. Clone the Repository
 **(Use your repo URL if different)**
 ```bash
-git clone [https://github.com/ARYANKUMAR1/Professinal-Networking-Platform.git](https://github.com/ARYANKUMAR1/Professinal-Networking-Platform.git)
+git clone https://github.com/ARYANKUMAR1/Professinal-Networking-Platform.git
 cd Professinal-Networking-Platform
